@@ -7,7 +7,7 @@ The publication can be found **here**.
 
 #### Index
 
-01. Genome assembly with `Canu`, `Flye` and `NextDenovo`, scaffolding using `RagTag` and telomere extension with `teloclip`.
+01. Genome assembly with `Canu`, `Flye` and `NextDenovo`, merging assemblies using `quickmerge` and telomere extension with `teloclip`.
 02. Assembly quality assessments with `BUSCO`, `Quast`, and `CRAQ`.
 03. Genome analysis
 04. Gene annotation *ab initio* via `BRAKER` and functional annotations.
