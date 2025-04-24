@@ -7,10 +7,10 @@ The publication can be found **here**.
 
 #### Index
 
-01. Genome assembly with `SPAdes` and `SOAPdenovo2`.
-02. Assembly clean-up by use of `Blobtools`.
-03. Basic genome analysis and quality control
-04. Gene annotation *ab initio* via `Augustus`/`BRAKER`
+01. Genome assembly with `Canu`, 'Flye' and `NextDenovo`, scaffolding using `RagTag` and telomere extension with `teloclip`.
+02. Assembly quality assessments with `BUSCO`, `Quast`, and `CRAQ`.
+03. Genome analysis
+04. Gene annotation *ab initio* via `BRAKER` and functional annotations.
 
 #### References
 
@@ -21,9 +21,9 @@ The publication can be found **here**.
 - RagTag v2.1.0 [Alonge et al. 2022]()
 - BWA v0.7.17.r1188 [Li & Durbin 2009]()
 - pilon v1.24 [Walker et al. 2014]()
+- teloclip v0.0.4 [Manual](https://github.com/Adamtaranto/teloclip)
 
 ##### Genome assembly quality assessment
-- teloclip v0.0.4 [Manual](https://github.com/Adamtaranto/teloclip)
 - Quast v5.2.0 [Gurevich et al. 2013]()
 - BUSCO [Simão et al. 2015]()
 - compleasm [Huang & Li 2023]()
