@@ -18,7 +18,7 @@ The publication can be found **here**.
 - Canu v2.2 [Koren et al. 2017]()
 - Flye v2.9.2 [Kolmogorov et al. 2019]()
 - NextDenovo v2.5.2 [Hu et al. 2024]()
-- RagTag v2.1.0 [Alonge et al. 2022]()
+- quickmerkge v0.3 [Manual](https://github.com/mahulchak/quickmerge?tab=readme-ov-file)
 - BWA v0.7.17.r1188 [Li & Durbin 2009]()
 - pilon v1.24 [Walker et al. 2014]()
 - teloclip v0.0.4 [Manual](https://github.com/Adamtaranto/teloclip)
