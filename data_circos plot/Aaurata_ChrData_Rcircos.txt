@@ -1,0 +1,17 @@
+chr	start	end	name	gieStain
+Chr01	1	3758135		gneg
+Chr02	1	3573447		gneg
+Chr03	1	3411106		gneg
+Chr04	1	3195127		gneg
+Chr05	1	2907885		gneg
+Chr06	1	2746486		gneg
+Chr07	1	2695373		gneg
+Chr08	1	2518662		gneg
+Chr09	1	2465287		gneg
+Chr10	1	2372790		gneg
+Chr11	1	2352741		gneg
+Chr12	1	2309148		gneg
+Chr13	1	2256029		gneg
+Chr14	1	2227591		gneg
+Chr15	1	2164952		gneg
+Chr16	1	2123937		gneg
