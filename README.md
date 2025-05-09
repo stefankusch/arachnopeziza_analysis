@@ -3,7 +3,9 @@
 Saprohytic fungi of the family *Arachnopezizaceae* are the closest known extant relatives of the powdery mildew fungi and may hold great potential for studying genetic components of their obligate biotrophic lifestyle. Here, we established telomere-to-telomere genome assemblies for two representatives of this family, *Arachnopeziza aurata* and *Arachnopeziza aurelia*. Both species harbor 16 chromosomes at a genome size of 43.1 and 46.3 million base-pairs, respectively, which, in contrast to the transposon-enriched powdery mildew genomes, show a repeat content below 5% and signs of repeat-induced point mutation (RIP). 
 
 In this repository, I summarize the scripts and tools I used to perform the assembly of the genomes of *Arachnopeziza aurata* and *Arachnopeziza aurelia* and analyse genomic features in the assemblies. 
-The publication can be found **here**.
+The publication can be found **here** and the datasets are publicly available at
+- [zenodo](https://zenodo.org/records/15303401)
+- [ENA/EBI](https://www.ebi.ac.uk/ena/browser/view/PRJNA1128938)
 
 #### Index
 
